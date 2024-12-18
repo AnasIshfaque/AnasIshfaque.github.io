@@ -2,7 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Anas Mohammad Ishfaqul Muktadir Osmani
+
+Hi 👋! I am a final year B.Sc. in Computer Science & Engineering student at [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Machine Learning** and **Cybersecurity**.
+
+## Research Interest
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
