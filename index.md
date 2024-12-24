@@ -4,9 +4,9 @@ layout: default
 
 # Anas Mohammad Ishfaqul Muktadir Osmani
 
-Hi 👋! I am a final year B.Sc. in Computer Science & Engineering student at [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Machine Learning** and **Cybersecurity**.
+Hi there 👋! I am a final year B.Sc. in Computer Science & Engineering student at [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Machine Learning** and **Cybersecurity**.
 
-## Research Interest
+<!-- ## Publications -->
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
