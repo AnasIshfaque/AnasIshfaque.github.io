@@ -6,7 +6,26 @@ layout: default
 
 Hi there 👋! I am a final year B.Sc. in Computer Science & Engineering student at [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Machine Learning** and **Cybersecurity**.
 
-<!-- ## Publications -->
+## Publications
+- [Voltavision: A transfer learning model for electronic component classification](https://openreview.net/pdf?id=JHTqFvmVYz)
+_**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Salekul Islam_
+12th International Conference on Learning Representations (ICLR 2024) _Tiny Paper track_
+
+- Priv-FedTL: Privacy Preserving Federated Transfer Learning for Resource Constrained Devices
+_**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Mohammad Shahriar Rahman_, _Salekul Islam_
+Preparing for IEEE Internet of Things Journal
+
+- [Electrocom61: A Multiclass Dataset for Detection of Electronic Components](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4858132)
+_Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Jannatul Ferdous Deepti_, _Raiyan Rahman_, _Salekul Islam_
+Under review in Data in Brief Journal
+
+- [BrailleSense: Deep Learning for Braille Character Classification](https://ieeexplore.ieee.org/document/10534500)
+_Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Dewan Md. Farid_
+6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT 2024)
+
+- Benchmarking Fully Homomorphic Encryption Libraries in IoT Devices
+_Taimur Rahman_,  _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Mohammad Shahriar Rahman_, _Mir Moynuddin Ahmed Shibly_, _Salekul Islam_
+Accepted at 11th International Conference on Networking, Systems, and Security (NSysS 2024)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
