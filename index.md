@@ -23,9 +23,9 @@ Under review in Data in Brief Journal
 _Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Dewan Md. Farid_\
 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT 2024)
 
-- Benchmarking Fully Homomorphic Encryption Libraries in IoT Devices\
+- [Benchmarking Fully Homomorphic Encryption Libraries in IoT Devices](https://doi.org/10.1145/3704522.3704546)\
 _Taimur Rahman_,  _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Mohammad Shahriar Rahman_, _Mir Moynuddin Ahmed Shibly_, _Salekul Islam_\
-Accepted at 11th International Conference on Networking, Systems, and Security (NSysS 2024)
+11th International Conference on Networking, Systems, and Security (NSysS 2024)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
