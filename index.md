@@ -15,7 +15,7 @@ _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Salekul Islam_\
 _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Mohammad Shahriar Rahman_, _Salekul Islam_\
 Preparing for IEEE Internet of Things Journal
 
-- [Electrocom61: A Multiclass Dataset for Detection of Electronic Components](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4858132)\
+- [Electrocom61: A Multiclass Dataset for Detection of Electronic Components](https://doi.org/10.1016/j.dib.2025.111331)\
 _Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Jannatul Ferdous Deepti_, _Raiyan Rahman_, _Salekul Islam_\
 Under review in Data in Brief Journal
 
