@@ -15,9 +15,9 @@ _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Salekul Islam_\
 _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Mohammad Shahriar Rahman_, _Salekul Islam_\
 Preparing for IEEE Internet of Things Journal
 
-- [Electrocom61: A Multiclass Dataset for Detection of Electronic Components](https://doi.org/10.1016/j.dib.2025.111331)\
+- [Electrocom61: A Multiclass Dataset for Detection of Electronic Components](https://www.sciencedirect.com/science/article/pii/S2352340925000630)\
 _Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Jannatul Ferdous Deepti_, _Raiyan Rahman_, _Salekul Islam_\
-Under review in Data in Brief Journal
+Data in Brief Journal
 
 - [BrailleSense: Deep Learning for Braille Character Classification](https://ieeexplore.ieee.org/document/10534500)\
 _Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Dewan Md. Farid_\
