@@ -4,7 +4,7 @@ layout: default
 
 # Anas Mohammad Ishfaqul Muktadir Osmani
 
-Hi there 👋! I am a final year B.Sc. in Computer Science & Engineering student at [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Machine Learning** and **Cybersecurity**.
+Hi there 👋! I am a graduate student at [North South University](https://www.northsouth.edu). I completed B.Sc. in Computer Science & Engineering from [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Machine Learning** and **Cybersecurity**.
 
 ## Publications
 - [Voltavision: A transfer learning model for electronic component classification](https://openreview.net/pdf?id=JHTqFvmVYz)\
