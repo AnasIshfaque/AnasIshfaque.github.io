@@ -4,20 +4,20 @@ layout: default
 
 # Anas Mohammad Ishfaqul Muktadir Osmani
 
-Hi there 👋! I am a graduate student and part-time lab instructor at [North South University](https://www.northsouth.edu). I completed B.Sc. in Computer Science & Engineering from [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Machine Learning** and **Cybersecurity**.
+Hi there 👋! I am a graduate student at [North South University](https://www.northsouth.edu). I completed B.Sc. in Computer Science & Engineering from [United International University](https://www.uiu.ac.bd/). My research interest lies in the intersection of **Distributed Machine Learning** and **Cybersecurity**.
 
 ## Publications
 - [Voltavision: A transfer learning model for electronic component classification](https://openreview.net/pdf?id=JHTqFvmVYz)\
 _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Salekul Islam_\
 12th International Conference on Learning Representations (ICLR 2024) _Tiny Paper track_
 
-- Priv-FedTL: Privacy Preserving Federated Transfer Learning for Resource Constrained Devices\
+- [Priv-FedTL: Privacy Preserving Federated Transfer Learning for Resource Constrained Devices](https://www.sciencedirect.com/science/article/abs/pii/S1389128626004615)\
 _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Mohammad Shahriar Rahman_, _Salekul Islam_\
-Under review for IEEE Internet of Things Journal
+Elsevier Computer Networks Journal (Published in 2026)
 
 - [Electrocom61: A Multiclass Dataset for Detection of Electronic Components](https://www.sciencedirect.com/science/article/pii/S2352340925000630)\
 _Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Taimur Rahman_, _Jannatul Ferdous Deepti_, _Raiyan Rahman_, _Salekul Islam_\
-Data in Brief Journal
+Data in Brief Journal (Published in 2025)
 
 - [BrailleSense: Deep Learning for Braille Character Classification](https://ieeexplore.ieee.org/document/10534500)\
 _Md. Faiyaz Abdullah Sayeedi_, _**Anas Mohammad Ishfaqul Muktadir Osmani**_, _Dewan Md. Farid_\
